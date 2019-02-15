@@ -24,21 +24,21 @@ GitHubの使い方などの基礎的な知識についてまとめる．
 
 - コメント付きでコミットする
 
-    $ git commit -m 'hogehoge'
+     $ git commit -m 'hogehoge'
     
   コメントをシングルクォーテーションで囲む
   
 - リモートにpushする
 
-    $ git push
+     $ git push
     
 - ローカルファイルを最新に更新する
     
-    $ git pull
+     $ git pull
     
 - 変更したファイルを破棄する (変更を取り消す)
 
-    $ git checkout [file name]
+     $ git checkout [file name]
 
 ## GitHub 初期設定
 
